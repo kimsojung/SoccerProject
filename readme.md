@@ -1,4 +1,4 @@
-## Annual salary adjustment for k-league player
+# Annual salary adjustment for k-league player
 
 repository for project collaborated with k-league in DS univerity statistics office.
 
